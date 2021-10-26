@@ -1,4 +1,4 @@
 # slider-section
-some kind of news slider. (Basic web)
+here products are shown as advertisement. Products slides after a fixed interval.
 
  [see demo](https://AbSamDev.github.io/slider-section/)
